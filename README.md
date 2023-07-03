@@ -1,0 +1,1 @@
+A few fun and small projects for training my students.
